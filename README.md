@@ -10,7 +10,6 @@
 | **Course**       | **B.Tech CSE 2025–2029**                |
 | **Subject**      | **Node.js**                             |
 | **Assignment**   | **Assignment 7**                        |
-| **Project Name** | **RouteParameters_Assignment7_Node_Ak** |
 
 ---
 
@@ -72,7 +71,7 @@ Student ID: 101
 
 ### 📸 Postman Execution
 
-![Assignment 1 - Student ID 101](screenshots/assignment1_student_101.png)
+![Assignment 1 - Student ID 101](Screenshotssss/assignment1_student_101.png)
 
 ---
 
@@ -94,7 +93,7 @@ Student ID: 205
 
 ### 📸 Postman Execution
 
-![Assignment 1 - Student ID 205](screenshots/assignment1_student_205.png)
+![Assignment 1 - Student ID 205](Screenshotssss/assignment1_student_205.png)
 
 ---
 
@@ -155,7 +154,7 @@ Course: Node.js
 
 ### 📸 Postman Execution
 
-![Assignment 2 - Search With Parameters](screenshots/assignment2_search_with_parameters.png)
+![Assignment 2 - Search With Parameters](Screenshotssss/assignment2_search_with_parameters.png)
 
 ---
 
@@ -177,7 +176,7 @@ No search data provided.
 
 ### 📸 Postman Execution
 
-![Assignment 2 - Search Without Parameters](screenshots/assignment2_search_without_parameters.png)
+![Assignment 2 - Search Without Parameters](Screenshotssss/assignment2_search_without_parameters.png)
 
 ---
 
@@ -241,7 +240,7 @@ Course: FullStack
 
 ### 📸 Postman Execution
 
-![Assignment 3 - Student Profile](screenshots/assignment3_student_profile.png)
+![Assignment 3 - Student Profile](Screenshotssss/assignment3_student_profile.png)
 
 ---
 
@@ -364,6 +363,8 @@ RouteParameters_Assignment7_Node_Ak/
 │
 ├── package.json
 └── package-lock.json
+└── README.md
+
 ```
 
 ---
@@ -688,12 +689,3 @@ By completing this assignment, the following Express.js concepts were practiced:
 | Execution Screenshots             | ✅ Included  |
 
 ---
-
-## 👨‍💻 Submitted By
-
-**Akhila Anish Das**
-**Roll No.: 150096725016**
-**Cohort: Larry Page**
-**B.Tech CSE 2025–2029**
-**Subject: Node.js**
-**Assignment 7**
