@@ -154,7 +154,7 @@ Course: Node.js
 
 ### 📸 Postman Execution
 
-![Assignment 2 - Search With Parameters](Screenshotssss/assignment2_search_with_parameters.png)
+![Assignment 2 - Search With Parameters](Screenshotssss/assignment2_search_with_parameter.png)
 
 ---
 
